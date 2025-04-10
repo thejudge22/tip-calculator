@@ -11,6 +11,9 @@ A simple and intuitive web application to calculate tips, built as a Progressive
 *   Progressive Web App (PWA) functionality for offline use.
 
 
+## Live Demo
+Visit [here](https://tipcalc.electricdemon.com) for a live, installable demo.
+
 ### Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
