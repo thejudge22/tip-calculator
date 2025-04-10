@@ -44,7 +44,8 @@ footer {
     color: white;
     text-align: center;
     padding: 1em;
-    position: fixed;
+    /* position: fixed; removed for better mobile/keyboard behavior */
     width: 100%;
     bottom: 0;
+    margin-top: 2em; /* Add some space above the static footer */
 }
