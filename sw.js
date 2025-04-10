@@ -1,7 +1,7 @@
 const CACHE_NAME = 'tip-calculator-cache-v1';
 const urlsToCache = [
   './',
-  './tip-calc.html',
+  './index.html',
   './styles.css',
   './script.js',
   // Add paths to icons if you have them, e.g.:
