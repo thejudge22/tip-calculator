@@ -5,8 +5,8 @@ const urlsToCache = [
   './styles.css',
   './script.js',
   // Add paths to icons if you have them, e.g.:
-  // './icons/icon-192x192.png',
-  // './icons/icon-512x512.png'
+  './icons/icon-192x192.png',
+  './icons/icon-512x512.png'
 ];
 
 // Install event: Cache core assets
